@@ -1,0 +1,7 @@
+---
+applications:
+- name: hello
+  instances: 1
+  memory: 128M
+  command: null
+  

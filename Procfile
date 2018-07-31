@@ -1,0 +1,1 @@
+web: gunicorn --preload -w 4 hello:app
